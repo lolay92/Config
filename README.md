@@ -4,6 +4,7 @@ Configuration file management project. This project is intended to help me sharp
 
 - Logging 
 - Unit testing 
+- Exception handling
 - Decorators
 - Integration and use of Git for project tracking 
 - Python Typing hints 
