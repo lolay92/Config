@@ -1,6 +1,6 @@
  # Config
 
- Small configuration file management project. This project is intended to help me sharpen my advanced python skills and involves using some concepts of python programming and software development in general that I recently learned: 
+Configuration file management project. This project is intended to help me sharpen my advanced python skills and involves using some concepts of python programming and software development in general that I recently learned: 
 
 - Logging 
 - Unit testing 
