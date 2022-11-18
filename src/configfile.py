@@ -78,7 +78,7 @@ class ConfigFileGenerator:
                 # Add new section with options and values
                 self.config.add_section(section)
                 self._config_merger(temp_config, section)
-        # Write the file after update
+        # Write the file after updating it
         with open(self.path_to_file, "w") as conf:
             self.config.write(conf)
 
