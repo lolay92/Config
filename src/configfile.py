@@ -13,7 +13,7 @@
 import os
 import logging
 from configparser import ConfigParser
-from typing import Dict, Any, NoReturn
+from typing import Dict, Any
 
 # Logging set up
 # logging.basicConfig(filename='configfilebuilder.log', level=logging.DEBUG,
